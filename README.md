@@ -1,2 +1,2 @@
 # wikifreq
-Find frequency of different words on Wikipedia.
+Find frequency of different words on Wikipedia. The word frequency should be proportional to its rank.
